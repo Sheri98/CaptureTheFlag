@@ -6,7 +6,7 @@ This repository contains a collection of automation tools and PoCs for the CTFs 
 
 To use this repository, simply clone it to your local machine using Git:
 
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/Sheri98/CaptureTheFlag.git
 
 Then, navigate to the directory for the CTF that you're working on and use the scripts and other resources as needed.
 
