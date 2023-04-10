@@ -14,6 +14,3 @@ Then, navigate to the directory for the CTF that you're working on and use the s
 
 If you have developed an automation tool or PoC that you would like to contribute to this repository, feel free to submit a pull request with your changes. Please include a description of your changes and an explanation of how they will help solve CTF challenges.
 
-## License
-
-This repository is licensed under the MIT License. See the `LICENSE` file for more information.
